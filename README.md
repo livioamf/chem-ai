@@ -1,6 +1,6 @@
-# ChemBERT: Guia de Uso do Projeto
+# ChemAI: Guia de Uso do Projeto
 
-Este documento apresenta um guia prático para utilização do projeto ChemBERT, que realiza predição de propriedades químicas a partir de representações SMILES utilizando modelos baseados em BERT com PyTorch Lightning.
+Este documento apresenta um guia prático para utilização do projeto ChemAI, que realiza predição de propriedades químicas a partir de representações SMILES utilizando modelos baseados no modelo de linguagem ChemBERT.
 
 ---
 
@@ -96,4 +96,5 @@ Este documento apresenta um guia prático para utilização do projeto ChemBERT,
 ## Contato e Suporte
 
 Em caso de dúvidas ou para colaborar no desenvolvimento, entre em contato com <livio.freire@aluno.uece.br>
+
 
