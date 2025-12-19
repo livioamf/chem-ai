@@ -1,6 +1,6 @@
 # ChemAI: Guia de Uso do Projeto
 
-Este documento apresenta um guia prático para utilização do projeto ChemAI, que realiza predição de propriedades químicas a partir de representações SMILES utilizando modelos baseados no modelo de linguagem ChemBERT.
+Este documento apresenta um guia prático para utilização do projeto ChemAI, que realiza predição de propriedades químicas a partir de representações SMILES mediante o fine-tuning do modelo de linguagem ChemBERT, com e sem LoRA.
 
 ---
 
@@ -96,5 +96,6 @@ Este documento apresenta um guia prático para utilização do projeto ChemAI, q
 ## Contato e Suporte
 
 Em caso de dúvidas ou para colaborar no desenvolvimento, entre em contato com <livio.freire@aluno.uece.br>
+
 
 
